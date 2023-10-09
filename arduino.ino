@@ -1,2 +1,3 @@
-void setup ()
+void setup () {
 print.ln ("Hi")
+}
